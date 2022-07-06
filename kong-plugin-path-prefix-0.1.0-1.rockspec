@@ -6,7 +6,6 @@ local pluginName = "path-prefix"
 supported_platforms = {"linux", "macosx"}
 source = {
   url = "git://github.com/alexashley/kong-plugin-path-prefix.git",
-  tag = "0.1.0"
 }
 
 description = {
